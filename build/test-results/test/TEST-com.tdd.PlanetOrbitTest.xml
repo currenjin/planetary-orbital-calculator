@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tdd.PlanetOrbitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-17T08:54:00" hostname="jeonghycBookAir" time="0.057">
+  <properties/>
+  <testcase name="지구_궤도를_생성합니다()" classname="com.tdd.PlanetOrbitTest" time="0.057"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
