@@ -1,7 +1,6 @@
 # Planetary Orbital Calculator(공전 궤도 계산기)
-- [원래 있던 레포지토리](https://github.com/currenjin/TDD)
 - 220717 ~ 220723 : 작업
-- 221130 : TDD 레포지토리에서 이곳으로 옮겼습니다.
+- 221130 : [TDD 레포지토리](https://github.com/currenjin/TDD)에서 이곳으로 옮겼습니다.
 
 ## 과정을 담은 글
 - [220717 : 궤도 객체 구현](https://currenjin.github.io/wiki/test/#220717currenjinplanetaryorbitalcalculatororbit)
