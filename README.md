@@ -1,4 +1,4 @@
-# Planetary Orbital Calculator(공전 궤도 계산기)
+# Planetary Orbital Calculator(행성의 공전 궤도 계산기)
 - 220717 ~ 220723 : 작업
 - 221130 : [TDD 레포지토리](https://github.com/currenjin/TDD)에서 이곳으로 옮겼습니다.
 
